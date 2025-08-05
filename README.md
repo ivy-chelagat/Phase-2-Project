@@ -16,13 +16,16 @@ It aims to guide a new movie studio in making data-driven decisions on what to p
 - **The Numbers** – Production budgets and financials.
 - **Rotten Tomatoes** – Movie ratings and reviews.
 - **TMDb** – Additional movie metadata.
+
 **Description of Data**
 - **Key Columns:** `release_date`, `title`, `production_budget`, `domestic_gross`, `worldwide_gross`, `genres`, `ratings`, etc.  
 - **Cleaning Steps:** Removed duplicates, handled missing values, standardized column formats, and merged datasets by title.
-## Tools and Technologies
+- 
+**Tools and Technologies**
 **Python** (pandas, matplotlib, seaborn)
 **Tableau** – Interactive dashboards
 **Jupyter Notebook** – Data cleaning, exploration, and visualization
+
 **Visualizations:**
 1. **ROI by Budget Range**
 <img width="954" height="846" alt="Budget Range vs ROI" src="https://github.com/user-attachments/assets/746fe72e-d709-428b-962f-8b12e0078849" />
@@ -38,10 +41,10 @@ It aims to guide a new movie studio in making data-driven decisions on what to p
 **Timing**: Summer (May–July) is most profitable; avoid January and February for ROI-driven releases.
 **Ratings**: High ratings don’t guarantee high revenue — audience appeal matters more.
 **Studios**: Paramount/DreamWorks and Disney dominate global earnings.
+
 **Recommendation**
 - Prioritize Action/Adventure films.
 - Target for less than $10M budgets.
 - Aim for June/ July / December releases.
 - Prioritize crowd-pleasing stories and clever marketing.
 - Collaborate with top studios like P/WD and BV.
-<img width="1334" height="393" alt="image" src="https://github.com/user-attachments/assets/cc656e0d-f571-4760-9576-15f58205d999" />
