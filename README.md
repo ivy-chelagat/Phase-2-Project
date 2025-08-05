@@ -20,13 +20,12 @@ It aims to guide a new movie studio in making data-driven decisions on what to p
 **Description of Data**
 - **Key Columns:** `release_date`, `title`, `production_budget`, `domestic_gross`, `worldwide_gross`, `genres`, `ratings`, etc.  
 - **Cleaning Steps:** Removed duplicates, handled missing values, standardized column formats, and merged datasets by title.
-- 
+-  
 **Tools and Technologies**
-**Python** (pandas, matplotlib, seaborn)
-**Tableau** – Interactive dashboards
-**Jupyter Notebook** – Data cleaning, exploration, and visualization
-
-**Visualizations:**
+- **Python** (pandas, matplotlib, seaborn)
+- **Tableau** – Interactive dashboards
+- **Jupyter Notebook** – Data cleaning, exploration, and visualization
+## Visualizations
 1. **ROI by Budget Range**
 <img width="954" height="846" alt="Budget Range vs ROI" src="https://github.com/user-attachments/assets/746fe72e-d709-428b-962f-8b12e0078849" />
 2. **Profitability by Genre** 
@@ -36,11 +35,11 @@ It aims to guide a new movie studio in making data-driven decisions on what to p
 
 ## Conclusion
 **Key Findings**
-**Genres**: Family + Fantasy + Musical and Adventure-based films lead in revenue; low-cost Horror/Thriller blends yield high ROI.
-**Budgets**: $0M–$3M films have the highest ROI; big-budget films have smaller margins.
-**Timing**: Summer (May–July) is most profitable; avoid January and February for ROI-driven releases.
-**Ratings**: High ratings don’t guarantee high revenue — audience appeal matters more.
-**Studios**: Paramount/DreamWorks and Disney dominate global earnings.
+- **Genres**: Family + Fantasy + Musical and Adventure-based films lead in revenue; low-cost Horror/Thriller blends yield high ROI.
+- **Budgets**: $0M–$3M films have the highest ROI; big-budget films have smaller margins.
+- **Timing**: Summer (May–July) is most profitable; avoid January and February for ROI-driven releases.
+- **Ratings**: High ratings don’t guarantee high revenue — audience appeal matters more.
+- **Studios**: Paramount/DreamWorks and Disney dominate global earnings.
 
 **Recommendation**
 - Prioritize Action/Adventure films.
