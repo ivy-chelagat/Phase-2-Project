@@ -26,11 +26,13 @@ It aims to guide a new movie studio in making data-driven decisions on what to p
 - **Tableau** – Interactive dashboards
 - **Jupyter Notebook** – Data cleaning, exploration, and visualization
 ## Visualizations
-1. - **ROI by Budget Range**
+1. **ROI by Budget Range**
 <img width="954" height="846" alt="Budget Range vs ROI" src="https://github.com/user-attachments/assets/746fe72e-d709-428b-962f-8b12e0078849" />
-2. - **Profitability by Genre** 
+
+2. **Profitability by Genre** 
 <img width="1569" height="847" alt="Genre Vs Revenue" src="https://github.com/user-attachments/assets/e783bd22-f86d-497d-9d9a-437b3eee3aff" />
-3. - **Release Month Performance**
+
+3. **Release Month Performance**
 <img width="1524" height="846" alt="Release Month vs Box Office Success" src="https://github.com/user-attachments/assets/1432c141-500e-4d4d-84f6-b324cd92552c" />
 
 ## Conclusion
