@@ -49,3 +49,5 @@ It aims to guide a new movie studio in making data-driven decisions on what to p
 - Aim for June/ July / December releases.
 - Prioritize crowd-pleasing stories and clever marketing.
 - Collaborate with top studios like P/WD and BV.
+## Tableau dashboard
+Click here to view the interactive dashboard https://public.tableau.com/views/LightsCameraProfits/BoxOfficePlaybook?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
